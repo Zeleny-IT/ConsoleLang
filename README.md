@@ -1,4 +1,4 @@
-<p style="text-align:center;">Sample text with center alignment</p>
+***<p style="text-align:center;">Text with basic formatting applied</p>***
 
 ____
 Console is a high-level programming language
