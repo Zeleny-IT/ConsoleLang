@@ -1,5 +1,4 @@
-***<p style="text-align:center;">Text with basic formatting applied</p>***
-
+## ConsoleLang
 ____
 Console is a high-level programming language
 
